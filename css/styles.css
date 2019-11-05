@@ -1,0 +1,106 @@
+body {
+  width: 1440px;
+  padding-top: 50px;
+  line-height: 2;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  color: hsl(229, 6%, 66%);
+  margin: auto;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+  color: hsl(234, 12%, 34%);
+  text-align: left;
+  margin: 0;
+}
+
+.h1-normal {
+  font-weight: lighter;
+  margin-bottom: 0;
+  line-height: 1;
+}
+.h1-bold {
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+  margin-top: 0;
+  margin-bottom: 10px;
+
+}
+.intro-para {
+  width: 40%;
+  margin: auto auto 50px;
+  line-height: 1.5;
+  text-align: center;
+  font-size: 17px;
+}
+.box-text {
+  text-align: left;
+}
+.box-img {
+  position: relative;
+  left: 250px;
+  margin: 30px 0 30px;
+}
+
+.red {
+  border-color: hsl(0, 78%, 62%);
+  padding-top: 30px;
+  padding-left: 40px;
+  width: 345px;
+  margin: 20px 20px;
+  border-radius: 2%;
+  border-style: outset;
+  border-width: 5px 0 0;
+  display: inline-block;
+  box-shadow: 0 5px 10px;
+  position: relative;
+  left: 80px;
+}
+.cyan {
+  border-color: hsl(180, 62%, 55%);
+  padding-top: 30px;
+  padding-left: 40px;
+  width: 345px;
+  margin: 20px 20px;
+  border-radius: 2%;
+  border-style: outset;
+  border-width: 5px 0 0;
+  display: inline-block;
+  box-shadow: 0 5px 10px;
+  position: relative;
+  left: 80px;
+  top: 176.3px
+}
+.blue {
+  border-color: hsl(212, 86%, 64%);
+  padding-top: 30px;
+  padding-left: 40px;
+  width: 345px;
+  margin: 20px 20px;
+  border-radius: 2%;
+  border-style: outset;
+  border-width: 5px 0 0;
+  display: inline-block;
+  box-shadow: 0 5px 10px;
+  position: relative;
+  left: 80px;
+  top: 176.3px
+}
+.orange {
+  border-color: hsl(34, 97%, 64%);
+  padding-top: 30px;
+  padding-left: 40px;
+  width: 345px;
+  margin: 20px 20px;
+  border-radius: 2%;
+  border-style: outset;
+  border-width: 5px 0 0;
+  display: inline-block;
+  box-shadow: 0 5px 10px;
+  position: relative;
+  left: 510px;
+}
